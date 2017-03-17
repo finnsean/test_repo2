@@ -1,5 +1,6 @@
 // some changes
 // this is a file
+// I hope this edit causes a merge conflict
 
 int main(void)
 {
